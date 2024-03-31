@@ -1,5 +1,5 @@
 /** @jsxImportSource frog/jsx */
-
+// @ts-nocheck
 import { Button, Frog, TextInput } from "frog";
 import BigNumber from "bignumber.js";
 import { handle } from "frog/next";
